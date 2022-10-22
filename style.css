@@ -1,0 +1,311 @@
+
+.logo {
+    width: 150px !important;
+    height: auto;
+}
+.nav-child {
+    width: 80%;
+    display: flex !important;
+    font-family: "DejaVu Sans M";
+}
+.mynav {
+    justify-content: center !important;
+}
+.formiko {
+    
+    display: flex !important;
+    
+}
+.bt1 {
+    border: none !important;
+    color: black !important;
+    
+}
+.kalbaski {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin: 0;
+}
+#as {
+    border: none;
+    background: none;
+    font-weight: 800;
+    color: #4C70D5 !important;
+}
+.lekvi {
+    width: 100%;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(240, 240, 240);
+
+}
+.konteineri {
+    width: 80%;
+    display: flex;
+}
+.left {
+    width: 60%;
+}
+.right {
+    width: 35%;
+    margin-top: 100px;
+}
+.ka {
+    position: absolute;
+    margin-top: 50px;
+    margin-left: -250px;
+    
+}
+.lekv {
+    position: absolute;
+    margin-left: -100px;
+}
+.xalxi {
+    width: 100%;
+    height: 90px;
+    display: flex;
+    margin-left: 30px;
+    align-items: center;
+}
+.q1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+.momx {
+    display: flex;
+    width: 150px;
+    align-items: center;
+}
+.butonebi {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    height: 170px;
+    justify-content: space-around;
+}
+.btt {
+    width: 80% !important;
+    height: 72px !important;
+    font-size: 25px !important;
+    border-radius: 49px !important;
+    margin-top: 20px;
+}
+.work {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 70px;
+    align-items: center;
+}    
+.works {
+    width: 70%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    justify-content: space-between;
+    
+}
+.card {
+    border: none !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-titles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 20px;
+    width: 100%;
+}
+.work1 {
+    margin-top: 50px;
+    width: 350px;
+}
+.card-titles span{
+    
+    color: #6B7A8B;
+    font-family: FiraGO;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 17px;
+    text-align: center;
+    max-width: 320px;
+    
+}
+.bl {
+    background-color: #2354A5;
+}
+.bl h1 {
+    margin-top: 20px;
+    color: white;
+}
+.wh p{
+    color: white !important;
+    font-family: FiraGO;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 17px;
+    text-align: center;
+    max-width: 320px;
+    margin-top: 15px;
+}
+.bk {
+    background: none !important;
+}
+.wh h3 {
+    color: white;
+    font-size: 20px;
+}
+.xo {
+    width: 100%;
+    margin-top: 100px;
+    display: flex;
+    background-color: rgb(253, 250, 250);
+
+}
+.photosidee {
+    width: 46%;
+    margin-left: -5%;
+    position: relative;
+}
+.f{
+    position: absolute;
+    right: 0;
+
+}
+.p {
+    position: absolute;
+    top: 109px;
+    z-index: 2;
+    right: 65px;
+}
+.photoebi {
+    position: relative;
+}
+.caruu {
+    width: 50%;
+    position: relative;
+    height: auto;
+}
+.caru {
+    width: 670px;
+    margin-top: 50px;
+    position: relative;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.caru h2 {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+.divebi {
+    margin-top: 30px;
+    display: flex;
+    width: 80%;
+    justify-content: space-around;
+}
+.kosmet {
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 4px;
+    background-color: white;
+    height: 195px;
+}
+
+.kosmet span {
+    margin-top: 15px;
+    color: #2354A5;
+}
+.zx {
+    margin-top: 70px;
+}
+.comebi {
+    width: 100%;
+    height: auto;
+    margin-top: 200px;
+    background-color: #F3F6FA;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    padding-bottom: 120px;
+    padding-top: 50px;
+    
+}
+
+.asd {
+    position: absolute;
+    right:45px;
+    
+}
+.comentarebi {
+    display: flex;
+    width: 70%;
+    height: auto;
+    margin: auto;
+    margin-top: 100px;
+    flex-wrap: wrap;
+    
+    
+}
+.saxeli-gvari {
+    margin-left: 250px;
+}
+.kom1 {
+    width: 45%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 15px;
+    z-index: 1;
+    
+}
+.kom1 p {
+    color: #1C2F4F;
+    font-family: FiraGO;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19px;
+}
+
+.saxeli-gvari img{
+    width: 27px;
+    height: 27px;
+    margin-right: 5px;
+
+}
+.fz {
+    position: absolute;
+    left: 10px;
+    margin-top: 250px;
+    overflow-x: hidden;
+}
+@media screen and (max-width:1000px) {
+    .right {
+        display: none;
+    }
+    .left {
+        width: 100%;
+    }
+    .works {
+        width: 90%;
+    }
+    
+}
